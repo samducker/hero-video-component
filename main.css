@@ -30,6 +30,7 @@ body {
     margin: 0 auto;
     object-fit: cover;
     object-position: center center;
+    pointer-events: none;
 }
 
 .static-header:after {
